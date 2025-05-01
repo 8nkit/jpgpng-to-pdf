@@ -1,0 +1,1 @@
+{"error":"Failed to generate PDF","details":"`options.color` must be of type `Color` or `n`, but was actually of type `string`"}

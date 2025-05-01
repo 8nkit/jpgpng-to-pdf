@@ -1,0 +1,1 @@
+{"error":"Failed to generate PDF","details":"ENOENT: no such file or directory, open 'ANKIT PHOTO.png'","stack":"Error: ENOENT: no such file or directory, open 'ANKIT PHOTO.png'"}
